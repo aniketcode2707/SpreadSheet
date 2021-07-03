@@ -1,7 +1,7 @@
 # SpreadSheet
-An Excel Clone
+**An Excel Clone**
 Built Using:
-EJS
-CSS
-Javascript
-Electron.js
+1. EJS
+2. CSS
+3. Javascript
+4. Electron.js
